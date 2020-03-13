@@ -2,7 +2,7 @@
 - '요리조리 맛있는 C언어'를 읽고 정리한 노트
 
 ## Contents
-1. C 언어 소개
+1. [C 언어 소개](https://github.com/YouKnowGit/My_C_Notebook/blob/master/Part01.md)   
 2. 변수와 자료형
 3. 연산자
 4. 제어문
